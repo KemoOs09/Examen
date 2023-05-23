@@ -16,7 +16,7 @@ import static models.Elemento.elementos;
  *
  * @author HugoOs
  */
-public class Tabla extends javax.swing.JFrame {
+public class Tabla extend javax.swing.JFrame {
     DefaultTableModel tablaPeriodica = new DefaultTableModel(){
         @Override
         public boolean isCellEditable(int row, int column){
@@ -35,7 +35,7 @@ public class Tabla extends javax.swing.JFrame {
         setModelo();
         setDatos();
     }
-    public static void autor62731(){
+    public static void autor62249(){
         System.out.println("Hugo Diego Osorio García ");
         System.out.println("62249");
         System.out.println("al062249@uacam.mx");
