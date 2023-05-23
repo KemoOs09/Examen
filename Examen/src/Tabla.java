@@ -36,9 +36,9 @@ public class Tabla extends javax.swing.JFrame {
         setDatos();
     }
     public static void autor62731(){
-        System.out.println("Sebastian Nah Cahuich");
-        System.out.println("62731");
-        System.out.println("al062731@uacam.mx");
+        System.out.println("Hugo Diego Osorio García ");
+        System.out.println("62249");
+        System.out.println("al062249@uacam.mx");
     }
      private void setModelo(){
         String[] tblcabecera = {"ID","Masa Atomica°", "Numero Atomico", "Simbolo Atomico","Nombre","Color"};
