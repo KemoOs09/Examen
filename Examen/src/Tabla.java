@@ -16,7 +16,7 @@ import static models.Elemento.elementos;
  *
  * @author HugoOs
  */
-public class Tabla extend javax.swing.JFrame {
+public class Tabla extends javax.swing.JFrame {
     DefaultTableModel tablaPeriodica = new DefaultTableModel(){
         @Override
         public boolean isCellEditable(int row, int column){
